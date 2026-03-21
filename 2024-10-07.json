@@ -1,0 +1,966 @@
+{
+  "date": "2024-10-07",
+  "count": 96,
+  "entries": [
+    {
+      "rank": 1,
+      "missions": 3,
+      "displayScore": 598,
+      "timeSecs": 38,
+      "timeStr": "0:38",
+      "details": "3:0:98:38",
+      "steamId": 76561197997854891,
+      "name": "Durry Quill"
+    },
+    {
+      "rank": 2,
+      "missions": 3,
+      "displayScore": 598,
+      "timeSecs": 44,
+      "timeStr": "0:44",
+      "details": "3:0:98:44",
+      "steamId": 76561198838007597,
+      "name": "Seven-Two"
+    },
+    {
+      "rank": 3,
+      "missions": 3,
+      "displayScore": 596,
+      "timeSecs": 85,
+      "timeStr": "1:25",
+      "details": "3:0:96:85",
+      "steamId": 76561197975901073,
+      "name": "Kassandra"
+    },
+    {
+      "rank": 4,
+      "missions": 3,
+      "displayScore": 592,
+      "timeSecs": 150,
+      "timeStr": "2:30",
+      "details": "3:0:92:150",
+      "steamId": 76561198407480033,
+      "name": "det.maginer"
+    },
+    {
+      "rank": 5,
+      "missions": 3,
+      "displayScore": 591,
+      "timeSecs": 164,
+      "timeStr": "2:44",
+      "details": "3:0:91:164",
+      "steamId": 76561198031860496,
+      "name": "mcc900"
+    },
+    {
+      "rank": 5,
+      "missions": 3,
+      "displayScore": 591,
+      "timeSecs": 164,
+      "timeStr": "2:44",
+      "details": "3:0:91:164",
+      "steamId": 76561197985562160,
+      "name": "Rond"
+    },
+    {
+      "rank": 7,
+      "missions": 3,
+      "displayScore": 590,
+      "timeSecs": 181,
+      "timeStr": "3:01",
+      "details": "3:0:90:181",
+      "steamId": 76561198353421974,
+      "name": "yangerdanger27"
+    },
+    {
+      "rank": 8,
+      "missions": 3,
+      "displayScore": 590,
+      "timeSecs": 192,
+      "timeStr": "3:12",
+      "details": "3:0:90:192",
+      "steamId": 76561198018147681,
+      "name": "Inky Bloc"
+    },
+    {
+      "rank": 9,
+      "missions": 3,
+      "displayScore": 590,
+      "timeSecs": 195,
+      "timeStr": "3:15",
+      "details": "3:0:90:195",
+      "steamId": 76561198013284910,
+      "name": "Shamaster"
+    },
+    {
+      "rank": 10,
+      "missions": 3,
+      "displayScore": 590,
+      "timeSecs": 196,
+      "timeStr": "3:16",
+      "details": "3:0:90:196",
+      "steamId": 76561198025669010,
+      "name": "Ajdar An\u0131k"
+    },
+    {
+      "rank": 11,
+      "missions": 3,
+      "displayScore": 589,
+      "timeSecs": 201,
+      "timeStr": "3:21",
+      "details": "3:0:89:201",
+      "steamId": 76561198040173814,
+      "name": "echo2878"
+    },
+    {
+      "rank": 12,
+      "missions": 3,
+      "displayScore": 589,
+      "timeSecs": 205,
+      "timeStr": "3:25",
+      "details": "3:0:89:205",
+      "steamId": 76561198028332942,
+      "name": "t-cake"
+    },
+    {
+      "rank": 13,
+      "missions": 3,
+      "displayScore": 588,
+      "timeSecs": 220,
+      "timeStr": "3:40",
+      "details": "3:0:88:220",
+      "steamId": 76561198128429897,
+      "name": "PhilyG123"
+    },
+    {
+      "rank": 14,
+      "missions": 3,
+      "displayScore": 588,
+      "timeSecs": 224,
+      "timeStr": "3:44",
+      "details": "3:0:88:224",
+      "steamId": 76561198041958163,
+      "name": "SickJ"
+    },
+    {
+      "rank": 15,
+      "missions": 3,
+      "displayScore": 588,
+      "timeSecs": 226,
+      "timeStr": "3:46",
+      "details": "3:0:88:226",
+      "steamId": 76561198011979277,
+      "name": "Scalarmotion"
+    },
+    {
+      "rank": 16,
+      "missions": 3,
+      "displayScore": 587,
+      "timeSecs": 237,
+      "timeStr": "3:57",
+      "details": "3:0:87:237",
+      "steamId": 76561198001129852,
+      "name": "mightykipper"
+    },
+    {
+      "rank": 17,
+      "missions": 3,
+      "displayScore": 587,
+      "timeSecs": 245,
+      "timeStr": "4:05",
+      "details": "3:0:87:245",
+      "steamId": 76561197972912428,
+      "name": "Darnn"
+    },
+    {
+      "rank": 18,
+      "missions": 3,
+      "displayScore": 587,
+      "timeSecs": 249,
+      "timeStr": "4:09",
+      "details": "3:0:87:249",
+      "steamId": 76561198058404554,
+      "name": "Undead_Knave"
+    },
+    {
+      "rank": 19,
+      "missions": 3,
+      "displayScore": 586,
+      "timeSecs": 254,
+      "timeStr": "4:14",
+      "details": "3:0:86:254",
+      "steamId": 76561198251717514,
+      "name": "Lretivel"
+    },
+    {
+      "rank": 20,
+      "missions": 3,
+      "displayScore": 586,
+      "timeSecs": 255,
+      "timeStr": "4:15",
+      "details": "3:0:86:255",
+      "steamId": 76561198343083370,
+      "name": "solyom"
+    },
+    {
+      "rank": 21,
+      "missions": 3,
+      "displayScore": 586,
+      "timeSecs": 263,
+      "timeStr": "4:23",
+      "details": "3:0:86:263",
+      "steamId": 76561198044544181,
+      "name": "tedster"
+    },
+    {
+      "rank": 22,
+      "missions": 3,
+      "displayScore": 586,
+      "timeSecs": 269,
+      "timeStr": "4:29",
+      "details": "3:0:86:269",
+      "steamId": 76561198994218001,
+      "name": "2DegreeSummit"
+    },
+    {
+      "rank": 23,
+      "missions": 3,
+      "displayScore": 584,
+      "timeSecs": 289,
+      "timeStr": "4:49",
+      "details": "3:0:84:289",
+      "steamId": 76561198106906505,
+      "name": "Stia4"
+    },
+    {
+      "rank": 24,
+      "missions": 3,
+      "displayScore": 584,
+      "timeSecs": 302,
+      "timeStr": "5:02",
+      "details": "3:0:84:302",
+      "steamId": 76561198025321264,
+      "name": "Stoic Rice Chips"
+    },
+    {
+      "rank": 25,
+      "missions": 3,
+      "displayScore": 583,
+      "timeSecs": 312,
+      "timeStr": "5:12",
+      "details": "3:0:83:312",
+      "steamId": 76561197960689968,
+      "name": "Talosity"
+    },
+    {
+      "rank": 26,
+      "missions": 3,
+      "displayScore": 581,
+      "timeSecs": 355,
+      "timeStr": "5:55",
+      "details": "3:0:81:355",
+      "steamId": 76561198177064771,
+      "name": "Evil Elmo"
+    },
+    {
+      "rank": 27,
+      "missions": 3,
+      "displayScore": 581,
+      "timeSecs": 356,
+      "timeStr": "5:56",
+      "details": "3:0:81:356",
+      "steamId": 76561198120874367,
+      "name": "Gale [HUN]"
+    },
+    {
+      "rank": 28,
+      "missions": 3,
+      "displayScore": 578,
+      "timeSecs": 410,
+      "timeStr": "6:50",
+      "details": "3:0:78:410",
+      "steamId": 76561198027744420,
+      "name": "Adaptive_Radiation"
+    },
+    {
+      "rank": 29,
+      "missions": 3,
+      "displayScore": 574,
+      "timeSecs": 473,
+      "timeStr": "7:53",
+      "details": "3:0:74:473",
+      "steamId": 76561198013943138,
+      "name": "Retrostylus"
+    },
+    {
+      "rank": 30,
+      "missions": 3,
+      "displayScore": 573,
+      "timeSecs": 486,
+      "timeStr": "8:06",
+      "details": "3:0:73:486",
+      "steamId": 76561197995175876,
+      "name": "cheshire"
+    },
+    {
+      "rank": 31,
+      "missions": 3,
+      "displayScore": 573,
+      "timeSecs": 498,
+      "timeStr": "8:18",
+      "details": "3:0:73:498",
+      "steamId": 76561198085085678,
+      "name": "Gnarcolepsy"
+    },
+    {
+      "rank": 32,
+      "missions": 3,
+      "displayScore": 572,
+      "timeSecs": 519,
+      "timeStr": "8:39",
+      "details": "3:0:72:519",
+      "steamId": 76561197967872252,
+      "name": "K\u00E3Pow!"
+    },
+    {
+      "rank": 33,
+      "missions": 3,
+      "displayScore": 571,
+      "timeSecs": 535,
+      "timeStr": "8:55",
+      "details": "3:0:71:535",
+      "steamId": 76561198397061063,
+      "name": "Lefty"
+    },
+    {
+      "rank": 34,
+      "missions": 3,
+      "displayScore": 571,
+      "timeSecs": 538,
+      "timeStr": "8:58",
+      "details": "3:0:71:538",
+      "steamId": 76561197991783369,
+      "name": "sryan2k1"
+    },
+    {
+      "rank": 35,
+      "missions": 3,
+      "displayScore": 570,
+      "timeSecs": 540,
+      "timeStr": "9:00",
+      "details": "3:0:70:540",
+      "steamId": 76561198037289475,
+      "name": "otosi"
+    },
+    {
+      "rank": 36,
+      "missions": 3,
+      "displayScore": 562,
+      "timeSecs": 701,
+      "timeStr": "11:41",
+      "details": "3:0:62:701",
+      "steamId": 76561197993765646,
+      "name": "Quintocracy"
+    },
+    {
+      "rank": 37,
+      "missions": 3,
+      "displayScore": 561,
+      "timeSecs": 719,
+      "timeStr": "11:59",
+      "details": "3:0:61:719",
+      "steamId": 76561198821581197,
+      "name": "Mikul"
+    },
+    {
+      "rank": 38,
+      "missions": 3,
+      "displayScore": 552,
+      "timeSecs": 870,
+      "timeStr": "14:30",
+      "details": "3:0:52:870",
+      "steamId": 76561198142222939,
+      "name": "Tatsu_M"
+    },
+    {
+      "rank": 39,
+      "missions": 3,
+      "displayScore": 510,
+      "timeSecs": 1636,
+      "timeStr": "27:16",
+      "details": "3:0:10:1636",
+      "steamId": 76561198085116197,
+      "name": "mrioi200"
+    },
+    {
+      "rank": 40,
+      "missions": 3,
+      "displayScore": 493,
+      "timeSecs": 444,
+      "timeStr": "7:24",
+      "details": "3:-7:0:444",
+      "steamId": 76561197988062113,
+      "name": "Legato"
+    },
+    {
+      "rank": 41,
+      "missions": 3,
+      "displayScore": 493,
+      "timeSecs": 1373,
+      "timeStr": "22:53",
+      "details": "3:-7:0:1373",
+      "steamId": 76561198042719417,
+      "name": "KartoffelOfDoom"
+    },
+    {
+      "rank": 42,
+      "missions": 3,
+      "displayScore": 488,
+      "timeSecs": 474,
+      "timeStr": "7:54",
+      "details": "3:-12:0:474",
+      "steamId": 76561198223065464,
+      "name": "Bisexual Skyrim"
+    },
+    {
+      "rank": 43,
+      "missions": 3,
+      "displayScore": 481,
+      "timeSecs": 993,
+      "timeStr": "16:33",
+      "details": "3:-19:0:993",
+      "steamId": 76561198120708651,
+      "name": "steviestickman1"
+    },
+    {
+      "rank": 44,
+      "missions": 3,
+      "displayScore": 474,
+      "timeSecs": 949,
+      "timeStr": "15:49",
+      "details": "3:-26:0:949",
+      "steamId": 76561198138805012,
+      "name": "Silent"
+    },
+    {
+      "rank": 45,
+      "missions": 3,
+      "displayScore": 450,
+      "timeSecs": 187,
+      "timeStr": "3:07",
+      "details": "3:0:-50:187",
+      "steamId": 76561198316493324,
+      "name": "LeeSpork"
+    },
+    {
+      "rank": 46,
+      "missions": 3,
+      "displayScore": 450,
+      "timeSecs": 224,
+      "timeStr": "3:44",
+      "details": "3:0:-50:224",
+      "steamId": 76561198346485846,
+      "name": "Dignissi"
+    },
+    {
+      "rank": 47,
+      "missions": 3,
+      "displayScore": 450,
+      "timeSecs": 350,
+      "timeStr": "5:50",
+      "details": "3:0:-50:350",
+      "steamId": 76561197997612002,
+      "name": "Daxyl"
+    },
+    {
+      "rank": 48,
+      "missions": 3,
+      "displayScore": 450,
+      "timeSecs": 445,
+      "timeStr": "7:25",
+      "details": "3:0:-50:445",
+      "steamId": 76561198155000818,
+      "name": "Doctor Headlock"
+    },
+    {
+      "rank": 49,
+      "missions": 3,
+      "displayScore": 450,
+      "timeSecs": 660,
+      "timeStr": "11:00",
+      "details": "3:0:-50:660",
+      "steamId": 76561198196218667,
+      "name": "Man is amused (not!)"
+    },
+    {
+      "rank": 50,
+      "missions": 3,
+      "displayScore": 450,
+      "timeSecs": 792,
+      "timeStr": "13:12",
+      "details": "3:0:-50:792",
+      "steamId": 76561199158216813,
+      "name": "Exactly 13 Cookies"
+    },
+    {
+      "rank": 51,
+      "missions": 3,
+      "displayScore": 450,
+      "timeSecs": 909,
+      "timeStr": "15:09",
+      "details": "3:0:-50:909",
+      "steamId": 76561197980039587,
+      "name": "world\u0027s strengthest janitor"
+    },
+    {
+      "rank": 52,
+      "missions": 3,
+      "displayScore": 450,
+      "timeSecs": 1372,
+      "timeStr": "22:52",
+      "details": "3:0:-50:1372",
+      "steamId": 76561198053980325,
+      "name": "rataplani"
+    },
+    {
+      "rank": 53,
+      "missions": 3,
+      "displayScore": 450,
+      "timeSecs": 1389,
+      "timeStr": "23:09",
+      "details": "3:0:-50:1389",
+      "steamId": 76561198376934138,
+      "name": "Its-Him"
+    },
+    {
+      "rank": 54,
+      "missions": 3,
+      "displayScore": 400,
+      "timeSecs": 197,
+      "timeStr": "3:17",
+      "details": "3:0:-100:197",
+      "steamId": 76561198039769756,
+      "name": "kwerboom"
+    },
+    {
+      "rank": 55,
+      "missions": 3,
+      "displayScore": 382,
+      "timeSecs": 300,
+      "timeStr": "5:00",
+      "details": "3:-68:-50:300",
+      "steamId": 76561198036561422,
+      "name": "Janus"
+    },
+    {
+      "rank": 56,
+      "missions": 2,
+      "displayScore": 250,
+      "timeSecs": 123,
+      "timeStr": "2:03",
+      "details": "2:0:0:123",
+      "steamId": 76561198001369306,
+      "name": "Wintermute"
+    },
+    {
+      "rank": 57,
+      "missions": 2,
+      "displayScore": 250,
+      "timeSecs": 149,
+      "timeStr": "2:29",
+      "details": "2:0:0:149",
+      "steamId": 76561198192114637,
+      "name": "Sopuyy"
+    },
+    {
+      "rank": 58,
+      "missions": 2,
+      "displayScore": 250,
+      "timeSecs": 282,
+      "timeStr": "4:42",
+      "details": "2:0:0:282",
+      "steamId": 76561198023540619,
+      "name": "AlexBronsky"
+    },
+    {
+      "rank": 59,
+      "missions": 2,
+      "displayScore": 250,
+      "timeSecs": 283,
+      "timeStr": "4:43",
+      "details": "2:0:0:283",
+      "steamId": 76561198170167061,
+      "name": "StarStrike22"
+    },
+    {
+      "rank": 60,
+      "missions": 2,
+      "displayScore": 250,
+      "timeSecs": 577,
+      "timeStr": "9:37",
+      "details": "2:0:0:577",
+      "steamId": 76561198155989477,
+      "name": "Yoril"
+    },
+    {
+      "rank": 61,
+      "missions": 2,
+      "displayScore": 243,
+      "timeSecs": 1138,
+      "timeStr": "18:58",
+      "details": "2:-7:0:1138",
+      "steamId": 76561198302851374,
+      "name": "CamelGamingFTW"
+    },
+    {
+      "rank": 62,
+      "missions": 2,
+      "displayScore": 238,
+      "timeSecs": 402,
+      "timeStr": "6:42",
+      "details": "2:-12:0:402",
+      "steamId": 76561198077517657,
+      "name": "Wakeupcall"
+    },
+    {
+      "rank": 63,
+      "missions": 2,
+      "displayScore": 238,
+      "timeSecs": 799,
+      "timeStr": "13:19",
+      "details": "2:-12:0:799",
+      "steamId": 76561198009417310,
+      "name": "Before and After Looking Away"
+    },
+    {
+      "rank": 64,
+      "missions": 2,
+      "displayScore": 224,
+      "timeSecs": 355,
+      "timeStr": "5:55",
+      "details": "2:-26:0:355",
+      "steamId": 76561198140969983,
+      "name": "Pengis Khan"
+    },
+    {
+      "rank": 65,
+      "missions": 2,
+      "displayScore": 200,
+      "timeSecs": 171,
+      "timeStr": "2:51",
+      "details": "2:0:-50:171",
+      "steamId": 76561198295522534,
+      "name": "CakePan"
+    },
+    {
+      "rank": 66,
+      "missions": 2,
+      "displayScore": 200,
+      "timeSecs": 269,
+      "timeStr": "4:29",
+      "details": "2:0:-50:269",
+      "steamId": 76561197972120055,
+      "name": "Lepreshawn"
+    },
+    {
+      "rank": 67,
+      "missions": 2,
+      "displayScore": 181,
+      "timeSecs": 223,
+      "timeStr": "3:43",
+      "details": "2:-69:0:223",
+      "steamId": 76561198169919487,
+      "name": "Kantara0"
+    },
+    {
+      "rank": 68,
+      "missions": 2,
+      "displayScore": 177,
+      "timeSecs": 795,
+      "timeStr": "13:15",
+      "details": "2:-73:0:795",
+      "steamId": 76561198451117793,
+      "name": "Uncle Bao"
+    },
+    {
+      "rank": 69,
+      "missions": 1,
+      "displayScore": 100,
+      "timeSecs": 80,
+      "timeStr": "1:20",
+      "details": "1:0:0:80",
+      "steamId": 76561198101862400,
+      "name": "DAPARROT"
+    },
+    {
+      "rank": 70,
+      "missions": 1,
+      "displayScore": 100,
+      "timeSecs": 133,
+      "timeStr": "2:13",
+      "details": "1:0:0:133",
+      "steamId": 76561198030622641,
+      "name": "Katastic Voyage"
+    },
+    {
+      "rank": 71,
+      "missions": 1,
+      "displayScore": 100,
+      "timeSecs": 167,
+      "timeStr": "2:47",
+      "details": "1:0:0:167",
+      "steamId": 76561198000849845,
+      "name": "Acheron"
+    },
+    {
+      "rank": 72,
+      "missions": 1,
+      "displayScore": 100,
+      "timeSecs": 223,
+      "timeStr": "3:43",
+      "details": "1:0:0:223",
+      "steamId": 76561198376564597,
+      "name": "Eren"
+    },
+    {
+      "rank": 73,
+      "missions": 1,
+      "displayScore": 100,
+      "timeSecs": 352,
+      "timeStr": "5:52",
+      "details": "1:0:0:352",
+      "steamId": 76561198011171307,
+      "name": "nailholes"
+    },
+    {
+      "rank": 74,
+      "missions": 1,
+      "displayScore": 100,
+      "timeSecs": 397,
+      "timeStr": "6:37",
+      "details": "1:0:0:397",
+      "steamId": 76561198100150289,
+      "name": "MegaScoob"
+    },
+    {
+      "rank": 75,
+      "missions": 1,
+      "displayScore": 100,
+      "timeSecs": 400,
+      "timeStr": "6:40",
+      "details": "1:0:0:400",
+      "steamId": 76561198043880465,
+      "name": "rpoulton"
+    },
+    {
+      "rank": 76,
+      "missions": 1,
+      "displayScore": 100,
+      "timeSecs": 421,
+      "timeStr": "7:01",
+      "details": "1:0:0:421",
+      "steamId": 76561198019957138,
+      "name": "Pure Blue"
+    },
+    {
+      "rank": 77,
+      "missions": 1,
+      "displayScore": 100,
+      "timeSecs": 442,
+      "timeStr": "7:22",
+      "details": "1:0:0:442",
+      "steamId": 76561197992961712,
+      "name": "Fidotas"
+    },
+    {
+      "rank": 78,
+      "missions": 2,
+      "displayScore": 74,
+      "timeSecs": 313,
+      "timeStr": "5:13",
+      "details": "2:-126:-50:313",
+      "steamId": 76561198023711187,
+      "name": "peter.jackson"
+    },
+    {
+      "rank": 79,
+      "missions": 1,
+      "displayScore": 50,
+      "timeSecs": 109,
+      "timeStr": "1:49",
+      "details": "1:0:-50:109",
+      "steamId": 76561198013615506,
+      "name": "Timah"
+    },
+    {
+      "rank": 80,
+      "missions": 1,
+      "displayScore": 50,
+      "timeSecs": 169,
+      "timeStr": "2:49",
+      "details": "1:0:-50:169",
+      "steamId": 76561198034219634,
+      "name": "DravenKash"
+    },
+    {
+      "rank": 81,
+      "missions": 1,
+      "displayScore": 50,
+      "timeSecs": 173,
+      "timeStr": "2:53",
+      "details": "1:0:-50:173",
+      "steamId": 76561198063446902,
+      "name": "Sleepy Saul"
+    },
+    {
+      "rank": 82,
+      "missions": 1,
+      "displayScore": 39,
+      "timeSecs": 316,
+      "timeStr": "5:16",
+      "details": "1:-61:0:316",
+      "steamId": 76561197973678878,
+      "name": "Felix"
+    },
+    {
+      "rank": 83,
+      "missions": 1,
+      "displayScore": 37,
+      "timeSecs": 682,
+      "timeStr": "11:22",
+      "details": "1:-13:-50:682",
+      "steamId": 76561198030581715,
+      "name": "Marshdog"
+    },
+    {
+      "rank": 84,
+      "missions": 1,
+      "displayScore": 35,
+      "timeSecs": 176,
+      "timeStr": "2:56",
+      "details": "1:-65:0:176",
+      "steamId": 76561197980303864,
+      "name": "Heinzy the Ketchup"
+    },
+    {
+      "rank": 85,
+      "missions": 1,
+      "displayScore": 5,
+      "timeSecs": 112,
+      "timeStr": "1:52",
+      "details": "1:-45:-50:112",
+      "steamId": 76561199577145971,
+      "name": "ezarae.games"
+    },
+    {
+      "rank": 86,
+      "missions": 0,
+      "displayScore": 0,
+      "timeSecs": 35,
+      "timeStr": "0:35",
+      "details": "0:0:0:35",
+      "steamId": 76561198067317608,
+      "name": "Raziku"
+    },
+    {
+      "rank": 87,
+      "missions": 0,
+      "displayScore": 0,
+      "timeSecs": 41,
+      "timeStr": "0:41",
+      "details": "0:0:0:41",
+      "steamId": 76561198252693748,
+      "name": "islandtoad"
+    },
+    {
+      "rank": 88,
+      "missions": 0,
+      "displayScore": 0,
+      "timeSecs": 78,
+      "timeStr": "1:18",
+      "details": "0:0:0:78",
+      "steamId": 76561198330487430,
+      "name": "sleepy.jigglypuff"
+    },
+    {
+      "rank": 89,
+      "missions": 0,
+      "displayScore": 0,
+      "timeSecs": 95,
+      "timeStr": "1:35",
+      "details": "0:0:0:95",
+      "steamId": 76561197993514745,
+      "name": "nighthawk2002"
+    },
+    {
+      "rank": 90,
+      "missions": 0,
+      "displayScore": 0,
+      "timeSecs": 104,
+      "timeStr": "1:44",
+      "details": "0:0:0:104",
+      "steamId": 76561199088367789,
+      "name": "Duckk"
+    },
+    {
+      "rank": 90,
+      "missions": 0,
+      "displayScore": 0,
+      "timeSecs": 104,
+      "timeStr": "1:44",
+      "details": "0:0:0:104",
+      "steamId": 76561198068446506,
+      "name": "Technic Pyro"
+    },
+    {
+      "rank": 92,
+      "missions": 0,
+      "displayScore": 0,
+      "timeSecs": 112,
+      "timeStr": "1:52",
+      "details": "0:0:0:112",
+      "steamId": 76561198404929415,
+      "name": "skiscratcher"
+    },
+    {
+      "rank": 93,
+      "missions": -99,
+      "displayScore": -15,
+      "timeSecs": 10080,
+      "timeStr": "168:00",
+      "details": "0:-16:0:80",
+      "steamId": 76561198012421332,
+      "name": "Castor"
+    },
+    {
+      "rank": 94,
+      "missions": -99,
+      "displayScore": -33,
+      "timeSecs": 10065,
+      "timeStr": "167:45",
+      "details": "0:-34:0:65",
+      "steamId": 76561198101523247,
+      "name": "FatalRebirth"
+    },
+    {
+      "rank": 95,
+      "missions": -99,
+      "displayScore": -61,
+      "timeSecs": 10054,
+      "timeStr": "167:34",
+      "details": "0:-62:0:54",
+      "steamId": 76561198066202669,
+      "name": "Nebbomugg"
+    },
+    {
+      "rank": 96,
+      "missions": -99,
+      "displayScore": -61,
+      "timeSecs": 10079,
+      "timeStr": "167:59",
+      "details": "0:-62:0:79",
+      "steamId": 76561198209892371,
+      "name": "Driskoll"
+    }
+  ]
+}

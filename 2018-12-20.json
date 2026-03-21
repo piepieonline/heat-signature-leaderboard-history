@@ -1,0 +1,46 @@
+{
+  "date": "2018-12-20",
+  "count": 4,
+  "entries": [
+    {
+      "rank": 1,
+      "missions": 2,
+      "displayScore": 156,
+      "timeSecs": 406,
+      "timeStr": "6:46",
+      "details": "2:-54:-40:406",
+      "steamId": 76561198113125176,
+      "name": "Chromadract"
+    },
+    {
+      "rank": 2,
+      "missions": 1,
+      "displayScore": 100,
+      "timeSecs": 43,
+      "timeStr": "0:43",
+      "details": "1:0:0:43",
+      "steamId": 76561197990408423,
+      "name": "Ranneko"
+    },
+    {
+      "rank": 3,
+      "missions": 1,
+      "displayScore": 80,
+      "timeSecs": 0,
+      "timeStr": "0:00",
+      "details": "1:0:-20:0",
+      "steamId": 76561197968898122,
+      "name": "John W"
+    },
+    {
+      "rank": 4,
+      "missions": 0,
+      "displayScore": 0,
+      "timeSecs": 61,
+      "timeStr": "1:01",
+      "details": "0:0:0:61",
+      "steamId": 76561197988627086,
+      "name": "Gabe"
+    }
+  ]
+}
