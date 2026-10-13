@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-12",
+  "lastUpdated": "2026-10-13",
   "players": [
     {
       "steamId": 76561197997854891,
@@ -10,12 +10,12 @@
       "medianRank": 1,
       "medianRankLast30": 1,
       "bestRankLast30": 1,
-      "bestRankLast30Date": "2026-09-12"
+      "bestRankLast30Date": "2026-09-13"
     },
     {
       "steamId": 76561197975901073,
       "name": "Kassandra \u26A7",
-      "appearances": 2321,
+      "appearances": 2322,
       "bestRank": 1,
       "bestRankDate": "2021-08-20",
       "medianRank": 4,
@@ -26,7 +26,7 @@
     {
       "steamId": 76561198039769756,
       "name": "kwerboom",
-      "appearances": 2156,
+      "appearances": 2157,
       "bestRank": 2,
       "bestRankDate": "2022-02-13",
       "medianRank": 23,
@@ -37,7 +37,7 @@
     {
       "steamId": 76561198041958163,
       "name": "SickJ",
-      "appearances": 2101,
+      "appearances": 2102,
       "bestRank": 2,
       "bestRankDate": "2023-07-10",
       "medianRank": 14,
@@ -81,18 +81,18 @@
     {
       "steamId": 76561198838007597,
       "name": "Seven-Two",
-      "appearances": 1505,
+      "appearances": 1506,
       "bestRank": 1,
       "bestRankDate": "2022-07-22",
       "medianRank": 2,
       "medianRankLast30": 1,
       "bestRankLast30": 1,
-      "bestRankLast30Date": "2026-09-12"
+      "bestRankLast30Date": "2026-09-14"
     },
     {
       "steamId": 76561197972912428,
       "name": "Darnn",
-      "appearances": 1498,
+      "appearances": 1499,
       "bestRank": 2,
       "bestRankDate": "2019-03-19",
       "medianRank": 13,
@@ -114,7 +114,7 @@
     {
       "steamId": 76561198028332942,
       "name": "t-cake",
-      "appearances": 1476,
+      "appearances": 1477,
       "bestRank": 1,
       "bestRankDate": "2024-11-07",
       "medianRank": 12,
@@ -136,13 +136,13 @@
     {
       "steamId": 76561197985562160,
       "name": "Rond",
-      "appearances": 1091,
+      "appearances": 1092,
       "bestRank": 1,
       "bestRankDate": "2020-07-11",
       "medianRank": 7,
       "medianRankLast30": 11,
-      "bestRankLast30": 6,
-      "bestRankLast30Date": "2026-10-07"
+      "bestRankLast30": 3,
+      "bestRankLast30Date": "2026-10-12"
     },
     {
       "steamId": 76561197964141316,
@@ -158,7 +158,7 @@
     {
       "steamId": 76561198043082070,
       "name": "qcheshire",
-      "appearances": 1068,
+      "appearances": 1069,
       "bestRank": 4,
       "bestRankDate": "2023-10-16",
       "medianRank": 21,
@@ -169,7 +169,7 @@
     {
       "steamId": 76561197980167248,
       "name": "Stranger Dan",
-      "appearances": 1038,
+      "appearances": 1039,
       "bestRank": 2,
       "bestRankDate": "2020-11-23",
       "medianRank": 27,
@@ -184,9 +184,20 @@
       "bestRank": 2,
       "bestRankDate": "2022-09-28",
       "medianRank": 15,
-      "medianRankLast30": 12,
+      "medianRankLast30": 14,
       "bestRankLast30": 8,
       "bestRankLast30Date": "2026-09-18"
+    },
+    {
+      "steamId": 76561198128429897,
+      "name": "PhilyG123",
+      "appearances": 1033,
+      "bestRank": 3,
+      "bestRankDate": "2020-10-27",
+      "medianRank": 24,
+      "medianRankLast30": 20,
+      "bestRankLast30": 3,
+      "bestRankLast30Date": "2026-10-02"
     },
     {
       "steamId": 76561198027906112,
@@ -200,26 +211,15 @@
       "bestRankLast30Date": "2026-10-02"
     },
     {
-      "steamId": 76561198128429897,
-      "name": "PhilyG123",
-      "appearances": 1032,
-      "bestRank": 3,
-      "bestRankDate": "2020-10-27",
-      "medianRank": 24,
-      "medianRankLast30": 20,
-      "bestRankLast30": 3,
-      "bestRankLast30Date": "2026-10-02"
-    },
-    {
       "steamId": 76561198108845373,
       "name": "ian.simcock",
       "appearances": 957,
       "bestRank": 6,
       "bestRankDate": "2022-02-14",
       "medianRank": 53,
-      "medianRankLast30": 53,
-      "bestRankLast30": 53,
-      "bestRankLast30Date": "2026-09-12"
+      "medianRankLast30": null,
+      "bestRankLast30": null,
+      "bestRankLast30Date": null
     },
     {
       "steamId": 76561198140961528,
@@ -246,7 +246,7 @@
     {
       "steamId": 76561198025321264,
       "name": "Stoic Rice Chips",
-      "appearances": 873,
+      "appearances": 874,
       "bestRank": 1,
       "bestRankDate": "2024-12-03",
       "medianRank": 22,
@@ -257,11 +257,11 @@
     {
       "steamId": 76561198085116197,
       "name": "mrioi200",
-      "appearances": 859,
+      "appearances": 860,
       "bestRank": 6,
       "bestRankDate": "2026-03-14",
       "medianRank": 35,
-      "medianRankLast30": 33,
+      "medianRankLast30": 32,
       "bestRankLast30": 11,
       "bestRankLast30Date": "2026-09-15"
     },
@@ -279,13 +279,13 @@
     {
       "steamId": 76561198316493324,
       "name": "LeeSpork",
-      "appearances": 805,
+      "appearances": 806,
       "bestRank": 1,
       "bestRankDate": "2024-05-12",
       "medianRank": 12,
-      "medianRankLast30": null,
-      "bestRankLast30": null,
-      "bestRankLast30Date": null
+      "medianRankLast30": 4,
+      "bestRankLast30": 4,
+      "bestRankLast30Date": "2026-10-12"
     },
     {
       "steamId": 76561198152214245,
@@ -455,7 +455,7 @@
     {
       "steamId": 76561198010996928,
       "name": "MangoClock",
-      "appearances": 580,
+      "appearances": 581,
       "bestRank": 3,
       "bestRankDate": "2020-09-24",
       "medianRank": 14,
@@ -554,7 +554,7 @@
     {
       "steamId": 76561198233050124,
       "name": "Quality Content",
-      "appearances": 487,
+      "appearances": 488,
       "bestRank": 1,
       "bestRankDate": "2020-08-12",
       "medianRank": 17,
@@ -587,7 +587,7 @@
     {
       "steamId": 76561197996092058,
       "name": "Piepieonline",
-      "appearances": 447,
+      "appearances": 448,
       "bestRank": 4,
       "bestRankDate": "2025-03-17",
       "medianRank": 23,
@@ -613,7 +613,7 @@
       "bestRank": 12,
       "bestRankDate": "2026-01-29",
       "medianRank": 50,
-      "medianRankLast30": 38,
+      "medianRankLast30": 37,
       "bestRankLast30": 21,
       "bestRankLast30Date": "2026-10-09"
     },
@@ -635,7 +635,7 @@
       "bestRank": 6,
       "bestRankDate": "2025-02-18",
       "medianRank": 34,
-      "medianRankLast30": 39,
+      "medianRankLast30": 43,
       "bestRankLast30": 10,
       "bestRankLast30Date": "2026-09-14"
     },
@@ -664,7 +664,7 @@
     {
       "steamId": 76561198251717514,
       "name": "Lretivel",
-      "appearances": 424,
+      "appearances": 425,
       "bestRank": 1,
       "bestRankDate": "2026-02-27",
       "medianRank": 15,
@@ -917,7 +917,7 @@
     {
       "steamId": 76561197993215301,
       "name": "theblobbus",
-      "appearances": 296,
+      "appearances": 297,
       "bestRank": 10,
       "bestRankDate": "2025-12-16",
       "medianRank": 38,
@@ -950,7 +950,7 @@
     {
       "steamId": 76561197972175605,
       "name": "richard.burns",
-      "appearances": 282,
+      "appearances": 283,
       "bestRank": 2,
       "bestRankDate": "2026-07-27",
       "medianRank": 16,
@@ -1130,9 +1130,9 @@
       "bestRank": 1,
       "bestRankDate": "2023-04-25",
       "medianRank": 32,
-      "medianRankLast30": 18,
-      "bestRankLast30": 18,
-      "bestRankLast30Date": "2026-09-12"
+      "medianRankLast30": null,
+      "bestRankLast30": null,
+      "bestRankLast30Date": null
     },
     {
       "steamId": 76561198245128134,
@@ -1586,6 +1586,17 @@
       "bestRankLast30Date": null
     },
     {
+      "steamId": 76561198000259463,
+      "name": "Gunsolo",
+      "appearances": 165,
+      "bestRank": 6,
+      "bestRankDate": "2026-08-17",
+      "medianRank": 30,
+      "medianRankLast30": 24,
+      "bestRankLast30": 9,
+      "bestRankLast30Date": "2026-10-06"
+    },
+    {
       "steamId": 76561198176892933,
       "name": "Jmcgee1125",
       "appearances": 164,
@@ -1617,17 +1628,6 @@
       "medianRankLast30": null,
       "bestRankLast30": null,
       "bestRankLast30Date": null
-    },
-    {
-      "steamId": 76561198000259463,
-      "name": "Gunsolo",
-      "appearances": 164,
-      "bestRank": 6,
-      "bestRankDate": "2026-08-17",
-      "medianRank": 30,
-      "medianRankLast30": 24,
-      "bestRankLast30": 9,
-      "bestRankLast30Date": "2026-10-06"
     },
     {
       "steamId": 76561198005289893,
@@ -1775,7 +1775,7 @@
     {
       "steamId": 76561197984610465,
       "name": "Tuuvan",
-      "appearances": 147,
+      "appearances": 148,
       "bestRank": 6,
       "bestRankDate": "2024-08-20",
       "medianRank": 28,
@@ -2565,6 +2565,17 @@
       "bestRankLast30Date": null
     },
     {
+      "steamId": 76561198190579661,
+      "name": "Turtlesjbh",
+      "appearances": 107,
+      "bestRank": 1,
+      "bestRankDate": "2018-12-28",
+      "medianRank": 9,
+      "medianRankLast30": 27,
+      "bestRankLast30": 4,
+      "bestRankLast30Date": "2026-09-30"
+    },
+    {
       "steamId": 76561198422753701,
       "name": "ArcanistLupus",
       "appearances": 107,
@@ -2585,17 +2596,6 @@
       "medianRankLast30": null,
       "bestRankLast30": null,
       "bestRankLast30Date": null
-    },
-    {
-      "steamId": 76561198190579661,
-      "name": "Turtlesjbh",
-      "appearances": 106,
-      "bestRank": 1,
-      "bestRankDate": "2018-12-28",
-      "medianRank": 9,
-      "medianRankLast30": 27,
-      "bestRankLast30": 4,
-      "bestRankLast30Date": "2026-09-30"
     },
     {
       "steamId": 76561198013081415,
@@ -3203,6 +3203,17 @@
       "bestRankLast30Date": null
     },
     {
+      "steamId": 76561197985733219,
+      "name": "Smoke",
+      "appearances": 86,
+      "bestRank": 8,
+      "bestRankDate": "2026-08-25",
+      "medianRank": 38,
+      "medianRankLast30": 24,
+      "bestRankLast30": 17,
+      "bestRankLast30Date": "2026-09-19"
+    },
+    {
       "steamId": 76561198020530347,
       "name": "Appetite Ruining Kebab",
       "appearances": 85,
@@ -3256,17 +3267,6 @@
       "medianRankLast30": 50,
       "bestRankLast30": 50,
       "bestRankLast30Date": "2026-09-20"
-    },
-    {
-      "steamId": 76561197985733219,
-      "name": "Smoke",
-      "appearances": 85,
-      "bestRank": 8,
-      "bestRankDate": "2026-08-25",
-      "medianRank": 38,
-      "medianRankLast30": 24,
-      "bestRankLast30": 17,
-      "bestRankLast30Date": "2026-09-19"
     },
     {
       "steamId": 76561198019566790,
@@ -3363,7 +3363,7 @@
       "bestRank": 12,
       "bestRankDate": "2026-08-03",
       "medianRank": 35,
-      "medianRankLast30": 30,
+      "medianRankLast30": 31,
       "bestRankLast30": 12,
       "bestRankLast30Date": "2026-09-14"
     },
@@ -3388,6 +3388,17 @@
       "medianRankLast30": null,
       "bestRankLast30": null,
       "bestRankLast30Date": null
+    },
+    {
+      "steamId": 76561198038938784,
+      "name": "Magictrix",
+      "appearances": 84,
+      "bestRank": 16,
+      "bestRankDate": "2021-08-19",
+      "medianRank": 43,
+      "medianRankLast30": 43,
+      "bestRankLast30": 39,
+      "bestRankLast30Date": "2026-10-02"
     },
     {
       "steamId": 76561197999036624,
@@ -3421,17 +3432,6 @@
       "medianRankLast30": null,
       "bestRankLast30": null,
       "bestRankLast30Date": null
-    },
-    {
-      "steamId": 76561198038938784,
-      "name": "Magictrix",
-      "appearances": 83,
-      "bestRank": 16,
-      "bestRankDate": "2021-08-19",
-      "medianRank": 42,
-      "medianRankLast30": 63,
-      "bestRankLast30": 39,
-      "bestRankLast30Date": "2026-10-02"
     },
     {
       "steamId": 76561197995320650,
@@ -4276,7 +4276,7 @@
       "bestRank": 4,
       "bestRankDate": "2026-08-17",
       "medianRank": 39,
-      "medianRankLast30": 32,
+      "medianRankLast30": 27,
       "bestRankLast30": 20,
       "bestRankLast30Date": "2026-09-26"
     },
@@ -5590,6 +5590,17 @@
       "bestRankLast30Date": null
     },
     {
+      "steamId": 76561198106173459,
+      "name": "Prime Sinister",
+      "appearances": 54,
+      "bestRank": 8,
+      "bestRankDate": "2026-02-22",
+      "medianRank": 55,
+      "medianRankLast30": 29,
+      "bestRankLast30": 22,
+      "bestRankLast30Date": "2026-10-12"
+    },
+    {
       "steamId": 76561198013943138,
       "name": "Retrostylus",
       "appearances": 54,
@@ -5684,7 +5695,7 @@
       "bestRank": 5,
       "bestRankDate": "2026-07-15",
       "medianRank": 28,
-      "medianRankLast30": 34,
+      "medianRankLast30": 29,
       "bestRankLast30": 14,
       "bestRankLast30Date": "2026-09-13"
     },
@@ -5742,17 +5753,6 @@
       "medianRankLast30": null,
       "bestRankLast30": null,
       "bestRankLast30Date": null
-    },
-    {
-      "steamId": 76561198106173459,
-      "name": "Prime Sinister",
-      "appearances": 53,
-      "bestRank": 8,
-      "bestRankDate": "2026-02-22",
-      "medianRank": 55,
-      "medianRankLast30": 29,
-      "bestRankLast30": 29,
-      "bestRankLast30Date": "2026-09-16"
     },
     {
       "steamId": 76561197988654484,
@@ -6664,8 +6664,8 @@
       "bestRankDate": "2026-09-12",
       "medianRank": 54,
       "medianRankLast30": 28,
-      "bestRankLast30": 19,
-      "bestRankLast30Date": "2026-09-12"
+      "bestRankLast30": 25,
+      "bestRankLast30Date": "2026-09-15"
     },
     {
       "steamId": 76561198084782032,
@@ -7317,6 +7317,17 @@
       "bestRankLast30Date": null
     },
     {
+      "steamId": 76561197996723645,
+      "name": "St. Lucifer",
+      "appearances": 44,
+      "bestRank": 11,
+      "bestRankDate": "2022-03-21",
+      "medianRank": 49,
+      "medianRankLast30": 49,
+      "bestRankLast30": 49,
+      "bestRankLast30Date": "2026-10-12"
+    },
+    {
       "steamId": 76561198255704762,
       "name": "Yang72",
       "appearances": 44,
@@ -7493,6 +7504,17 @@
       "bestRankLast30Date": null
     },
     {
+      "steamId": 76561198810619754,
+      "name": "Tornado",
+      "appearances": 43,
+      "bestRank": 7,
+      "bestRankDate": "2026-08-03",
+      "medianRank": 34,
+      "medianRankLast30": 29,
+      "bestRankLast30": 14,
+      "bestRankLast30Date": "2026-10-06"
+    },
+    {
       "steamId": 76561198067874401,
       "name": "Jees",
       "appearances": 43,
@@ -7532,17 +7554,6 @@
       "bestRank": 10,
       "bestRankDate": "2021-03-18",
       "medianRank": 44,
-      "medianRankLast30": null,
-      "bestRankLast30": null,
-      "bestRankLast30Date": null
-    },
-    {
-      "steamId": 76561197996723645,
-      "name": "St. Lucifer",
-      "appearances": 43,
-      "bestRank": 11,
-      "bestRankDate": "2022-03-21",
-      "medianRank": 48,
       "medianRankLast30": null,
       "bestRankLast30": null,
       "bestRankLast30Date": null
@@ -7744,17 +7755,6 @@
       "medianRankLast30": null,
       "bestRankLast30": null,
       "bestRankLast30Date": null
-    },
-    {
-      "steamId": 76561198810619754,
-      "name": "Tornado",
-      "appearances": 42,
-      "bestRank": 7,
-      "bestRankDate": "2026-08-03",
-      "medianRank": 35,
-      "medianRankLast30": 49,
-      "bestRankLast30": 14,
-      "bestRankLast30Date": "2026-10-06"
     },
     {
       "steamId": 76561198096608549,
@@ -8505,6 +8505,17 @@
       "bestRankLast30Date": null
     },
     {
+      "steamId": 76561198014254541,
+      "name": "Gunnmitten",
+      "appearances": 39,
+      "bestRank": 11,
+      "bestRankDate": "2026-08-19",
+      "medianRank": 43,
+      "medianRankLast30": 37,
+      "bestRankLast30": 14,
+      "bestRankLast30Date": "2026-09-20"
+    },
+    {
       "steamId": 76561198078283827,
       "name": "Ghost_Telacast",
       "appearances": 39,
@@ -8736,17 +8747,6 @@
       "bestRankLast30Date": null
     },
     {
-      "steamId": 76561198014254541,
-      "name": "Gunnmitten",
-      "appearances": 38,
-      "bestRank": 11,
-      "bestRankDate": "2026-08-19",
-      "medianRank": 43,
-      "medianRankLast30": 42,
-      "bestRankLast30": 14,
-      "bestRankLast30Date": "2026-09-20"
-    },
-    {
       "steamId": 76561198045838158,
       "name": "Copyright Pending",
       "appearances": 38,
@@ -8910,6 +8910,17 @@
       "medianRankLast30": null,
       "bestRankLast30": null,
       "bestRankLast30Date": null
+    },
+    {
+      "steamId": 76561198210363816,
+      "name": "historywonk01",
+      "appearances": 38,
+      "bestRank": 19,
+      "bestRankDate": "2026-09-17",
+      "medianRank": 46,
+      "medianRankLast30": 46,
+      "bestRankLast30": 19,
+      "bestRankLast30Date": "2026-09-17"
     },
     {
       "steamId": 76561198134798430,
@@ -9187,6 +9198,17 @@
       "bestRankLast30Date": null
     },
     {
+      "steamId": 76561198862498035,
+      "name": "Dirt Eater",
+      "appearances": 37,
+      "bestRank": 17,
+      "bestRankDate": "2026-08-27",
+      "medianRank": 48,
+      "medianRankLast30": 56,
+      "bestRankLast30": 33,
+      "bestRankLast30Date": "2026-09-17"
+    },
+    {
       "steamId": 76561198027882240,
       "name": "Tehbeard",
       "appearances": 37,
@@ -9207,17 +9229,6 @@
       "medianRankLast30": null,
       "bestRankLast30": null,
       "bestRankLast30Date": null
-    },
-    {
-      "steamId": 76561198210363816,
-      "name": "historywonk01",
-      "appearances": 37,
-      "bestRank": 19,
-      "bestRankDate": "2026-09-17",
-      "medianRank": 46,
-      "medianRankLast30": 46,
-      "bestRankLast30": 19,
-      "bestRankLast30Date": "2026-09-17"
     },
     {
       "steamId": 76561198160968054,
@@ -9548,17 +9559,6 @@
       "medianRankLast30": null,
       "bestRankLast30": null,
       "bestRankLast30Date": null
-    },
-    {
-      "steamId": 76561198862498035,
-      "name": "Dirt Eater",
-      "appearances": 36,
-      "bestRank": 17,
-      "bestRankDate": "2026-08-27",
-      "medianRank": 48,
-      "medianRankLast30": 56,
-      "bestRankLast30": 33,
-      "bestRankLast30Date": "2026-09-17"
     },
     {
       "steamId": 76561198079745696,
@@ -12603,9 +12603,9 @@
       "bestRank": 6,
       "bestRankDate": "2026-02-02",
       "medianRank": 34,
-      "medianRankLast30": 21,
-      "bestRankLast30": 21,
-      "bestRankLast30Date": "2026-09-12"
+      "medianRankLast30": null,
+      "bestRankLast30": null,
+      "bestRankLast30Date": null
     },
     {
       "steamId": 76561198158272362,
@@ -15166,7 +15166,7 @@
       "bestRank": 17,
       "bestRankDate": "2024-11-11",
       "medianRank": 85,
-      "medianRankLast30": 28,
+      "medianRankLast30": 42,
       "bestRankLast30": 17,
       "bestRankLast30Date": "2026-09-17"
     },
@@ -16227,6 +16227,17 @@
       "bestRankLast30Date": null
     },
     {
+      "steamId": 76561199038968867,
+      "name": "MrSpiffyClean",
+      "appearances": 24,
+      "bestRank": 16,
+      "bestRankDate": "2026-09-08",
+      "medianRank": 32,
+      "medianRankLast30": 32,
+      "bestRankLast30": 19,
+      "bestRankLast30Date": "2026-09-30"
+    },
+    {
       "steamId": 76561198158931521,
       "name": "Cap\u0027n Crook",
       "appearances": 24,
@@ -17272,6 +17283,17 @@
       "bestRankLast30Date": null
     },
     {
+      "steamId": 76561197977297423,
+      "name": "Nefarious Byte",
+      "appearances": 23,
+      "bestRank": 14,
+      "bestRankDate": "2026-10-02",
+      "medianRank": 45,
+      "medianRankLast30": 39,
+      "bestRankLast30": 14,
+      "bestRankLast30Date": "2026-10-02"
+    },
+    {
       "steamId": 76561198039283533,
       "name": "The Stardust Knight",
       "appearances": 23,
@@ -17369,17 +17391,6 @@
       "medianRankLast30": null,
       "bestRankLast30": null,
       "bestRankLast30Date": null
-    },
-    {
-      "steamId": 76561199038968867,
-      "name": "MrSpiffyClean",
-      "appearances": 23,
-      "bestRank": 16,
-      "bestRankDate": "2026-09-08",
-      "medianRank": 32,
-      "medianRankLast30": 34,
-      "bestRankLast30": 19,
-      "bestRankLast30Date": "2026-09-30"
     },
     {
       "steamId": 76561197970523997,
@@ -18348,17 +18359,6 @@
       "medianRankLast30": null,
       "bestRankLast30": null,
       "bestRankLast30Date": null
-    },
-    {
-      "steamId": 76561197977297423,
-      "name": "Nefarious Byte",
-      "appearances": 22,
-      "bestRank": 14,
-      "bestRankDate": "2026-10-02",
-      "medianRank": 45,
-      "medianRankLast30": 39,
-      "bestRankLast30": 14,
-      "bestRankLast30Date": "2026-10-02"
     },
     {
       "steamId": 76561198218974200,
@@ -24576,6 +24576,17 @@
       "bestRankLast30Date": null
     },
     {
+      "steamId": 76561198111377754,
+      "name": "husaskin",
+      "appearances": 18,
+      "bestRank": 9,
+      "bestRankDate": "2026-08-19",
+      "medianRank": 45,
+      "medianRankLast30": 33,
+      "bestRankLast30": 33,
+      "bestRankLast30Date": "2026-10-12"
+    },
+    {
       "steamId": 76561198034027615,
       "name": "Pathogen",
       "appearances": 18,
@@ -26837,17 +26848,6 @@
       "bestRank": 9,
       "bestRankDate": "2019-10-01",
       "medianRank": 56,
-      "medianRankLast30": null,
-      "bestRankLast30": null,
-      "bestRankLast30Date": null
-    },
-    {
-      "steamId": 76561198111377754,
-      "name": "husaskin",
-      "appearances": 17,
-      "bestRank": 9,
-      "bestRankDate": "2026-08-19",
-      "medianRank": 45,
       "medianRankLast30": null,
       "bestRankLast30": null,
       "bestRankLast30Date": null
@@ -32430,6 +32430,17 @@
       "bestRankLast30Date": null
     },
     {
+      "steamId": 76561199586294937,
+      "name": "Walrus404",
+      "appearances": 15,
+      "bestRank": 10,
+      "bestRankDate": "2026-09-24",
+      "medianRank": 29,
+      "medianRankLast30": 32,
+      "bestRankLast30": 10,
+      "bestRankLast30Date": "2026-09-24"
+    },
+    {
       "steamId": 76561198026892094,
       "name": "Aeygil",
       "appearances": 15,
@@ -33451,6 +33462,17 @@
       "medianRankLast30": null,
       "bestRankLast30": null,
       "bestRankLast30Date": null
+    },
+    {
+      "steamId": 76561198354933469,
+      "name": "Varthrax",
+      "appearances": 15,
+      "bestRank": 20,
+      "bestRankDate": "2020-08-30",
+      "medianRank": 41,
+      "medianRankLast30": 25,
+      "bestRankLast30": 22,
+      "bestRankLast30Date": "2026-09-23"
     },
     {
       "steamId": 76561198119458730,
@@ -34476,6 +34498,17 @@
       "bestRankLast30Date": null
     },
     {
+      "steamId": 76561197974160073,
+      "name": "JGShaver",
+      "appearances": 15,
+      "bestRank": 33,
+      "bestRankDate": "2026-10-02",
+      "medianRank": 51,
+      "medianRankLast30": 45,
+      "bestRankLast30": 33,
+      "bestRankLast30Date": "2026-10-02"
+    },
+    {
       "steamId": 76561197995382130,
       "name": "Gladius",
       "appearances": 15,
@@ -35494,7 +35527,7 @@
       "bestRank": 8,
       "bestRankDate": "2026-09-08",
       "medianRank": 45,
-      "medianRankLast30": 45,
+      "medianRankLast30": 54,
       "bestRankLast30": 29,
       "bestRankLast30Date": "2026-09-14"
     },
@@ -35717,17 +35750,6 @@
       "medianRankLast30": null,
       "bestRankLast30": null,
       "bestRankLast30Date": null
-    },
-    {
-      "steamId": 76561199586294937,
-      "name": "Walrus404",
-      "appearances": 14,
-      "bestRank": 10,
-      "bestRankDate": "2026-09-24",
-      "medianRank": 32,
-      "medianRankLast30": 32,
-      "bestRankLast30": 10,
-      "bestRankLast30Date": "2026-09-24"
     },
     {
       "steamId": 76561198025494700,
@@ -36907,17 +36929,6 @@
       "bestRankLast30Date": null
     },
     {
-      "steamId": 76561198354933469,
-      "name": "Varthrax",
-      "appearances": 14,
-      "bestRank": 20,
-      "bestRankDate": "2020-08-30",
-      "medianRank": 44,
-      "medianRankLast30": 44,
-      "bestRankLast30": 22,
-      "bestRankLast30Date": "2026-09-23"
-    },
-    {
       "steamId": 76561197994081731,
       "name": "tarpeti",
       "appearances": 14,
@@ -37754,6 +37765,17 @@
       "bestRankLast30Date": null
     },
     {
+      "steamId": 76561198075017617,
+      "name": "treyra",
+      "appearances": 14,
+      "bestRank": 27,
+      "bestRankDate": "2026-10-11",
+      "medianRank": 101,
+      "medianRankLast30": 58,
+      "bestRankLast30": 27,
+      "bestRankLast30Date": "2026-10-11"
+    },
+    {
       "steamId": 76561198062740484,
       "name": "Maskoko",
       "appearances": 14,
@@ -38247,17 +38269,6 @@
       "medianRankLast30": null,
       "bestRankLast30": null,
       "bestRankLast30Date": null
-    },
-    {
-      "steamId": 76561197974160073,
-      "name": "JGShaver",
-      "appearances": 14,
-      "bestRank": 33,
-      "bestRankDate": "2026-10-02",
-      "medianRank": 55,
-      "medianRankLast30": 55,
-      "bestRankLast30": 33,
-      "bestRankLast30Date": "2026-10-02"
     },
     {
       "steamId": 76561198124487993,
@@ -41910,17 +41921,6 @@
       "medianRankLast30": null,
       "bestRankLast30": null,
       "bestRankLast30Date": null
-    },
-    {
-      "steamId": 76561198075017617,
-      "name": "treyra",
-      "appearances": 13,
-      "bestRank": 27,
-      "bestRankDate": "2026-10-11",
-      "medianRank": 101,
-      "medianRankLast30": 58,
-      "bestRankLast30": 27,
-      "bestRankLast30Date": "2026-10-11"
     },
     {
       "steamId": 76561198096272743,
@@ -50245,7 +50245,7 @@
       "bestRank": 13,
       "bestRankDate": "2026-09-08",
       "medianRank": 35,
-      "medianRankLast30": 31,
+      "medianRankLast30": 48,
       "bestRankLast30": 30,
       "bestRankLast30Date": "2026-09-14"
     },
@@ -50366,7 +50366,7 @@
       "bestRank": 14,
       "bestRankDate": "2026-09-17",
       "medianRank": 26,
-      "medianRankLast30": 26,
+      "medianRankLast30": 23,
       "bestRankLast30": 14,
       "bestRankLast30Date": "2026-09-17"
     },
@@ -50380,6 +50380,17 @@
       "medianRankLast30": 50,
       "bestRankLast30": 22,
       "bestRankLast30Date": "2026-10-03"
+    },
+    {
+      "steamId": 76561197970762509,
+      "name": "nDervish",
+      "appearances": 11,
+      "bestRank": 14,
+      "bestRankDate": "2026-10-09",
+      "medianRank": 37,
+      "medianRankLast30": 37,
+      "bestRankLast30": 14,
+      "bestRankLast30Date": "2026-10-09"
     },
     {
       "steamId": 76561197979895618,
@@ -52291,7 +52302,7 @@
       "bestRank": 24,
       "bestRankDate": "2026-09-04",
       "medianRank": 52,
-      "medianRankLast30": 43,
+      "medianRankLast30": 42,
       "bestRankLast30": 42,
       "bestRankLast30Date": "2026-09-14"
     },
@@ -56938,17 +56949,6 @@
       "bestRankLast30Date": "2026-09-24"
     },
     {
-      "steamId": 76561197970762509,
-      "name": "nDervish",
-      "appearances": 10,
-      "bestRank": 14,
-      "bestRankDate": "2026-10-09",
-      "medianRank": 41,
-      "medianRankLast30": 41,
-      "bestRankLast30": 14,
-      "bestRankLast30Date": "2026-10-09"
-    },
-    {
       "steamId": 76561197960299211,
       "name": "kavi",
       "appearances": 10,
@@ -60123,9 +60123,9 @@
       "bestRank": 30,
       "bestRankDate": "2024-05-08",
       "medianRank": 44,
-      "medianRankLast30": 38,
-      "bestRankLast30": 38,
-      "bestRankLast30Date": "2026-09-12"
+      "medianRankLast30": null,
+      "bestRankLast30": null,
+      "bestRankLast30Date": null
     },
     {
       "steamId": 76561198353566652,
@@ -60610,6 +60610,17 @@
       "medianRankLast30": null,
       "bestRankLast30": null,
       "bestRankLast30Date": null
+    },
+    {
+      "steamId": 76561198202203116,
+      "name": "Sleelin",
+      "appearances": 10,
+      "bestRank": 33,
+      "bestRankDate": "2022-05-27",
+      "medianRank": 99,
+      "medianRankLast30": 47,
+      "bestRankLast30": 41,
+      "bestRankLast30Date": "2026-10-08"
     },
     {
       "steamId": 76561197972713782,
@@ -69269,17 +69280,6 @@
       "bestRankLast30Date": null
     },
     {
-      "steamId": 76561198202203116,
-      "name": "Sleelin",
-      "appearances": 9,
-      "bestRank": 33,
-      "bestRankDate": "2022-05-27",
-      "medianRank": 99,
-      "medianRankLast30": 41,
-      "bestRankLast30": 41,
-      "bestRankLast30Date": "2026-10-08"
-    },
-    {
       "steamId": 76561198054290250,
       "name": "Froucoux",
       "appearances": 9,
@@ -74648,6 +74648,17 @@
       "bestRankLast30Date": null
     },
     {
+      "steamId": 76561198019370677,
+      "name": "Matan",
+      "appearances": 8,
+      "bestRank": 16,
+      "bestRankDate": "2026-10-12",
+      "medianRank": 61,
+      "medianRankLast30": 33,
+      "bestRankLast30": 16,
+      "bestRankLast30Date": "2026-10-12"
+    },
+    {
       "steamId": 76561197983614638,
       "name": "Kriellya",
       "appearances": 8,
@@ -77792,6 +77803,17 @@
       "medianRankLast30": null,
       "bestRankLast30": null,
       "bestRankLast30Date": null
+    },
+    {
+      "steamId": 76561198967141445,
+      "name": "Ln(KpNm)=?",
+      "appearances": 8,
+      "bestRank": 27,
+      "bestRankDate": "2026-09-07",
+      "medianRank": 47,
+      "medianRankLast30": 46,
+      "bestRankLast30": 36,
+      "bestRankLast30Date": "2026-09-13"
     },
     {
       "steamId": 76561198850923040,
@@ -86825,6 +86847,17 @@
       "bestRankLast30Date": null
     },
     {
+      "steamId": 76561198998172700,
+      "name": "Afedupfig",
+      "appearances": 7,
+      "bestRank": 16,
+      "bestRankDate": "2026-09-17",
+      "medianRank": 44,
+      "medianRankLast30": 44,
+      "bestRankLast30": 16,
+      "bestRankLast30Date": "2026-09-17"
+    },
+    {
       "steamId": 76561198170458145,
       "name": "god\u0027s favorite princess",
       "appearances": 7,
@@ -88220,17 +88253,6 @@
       "medianRankLast30": null,
       "bestRankLast30": null,
       "bestRankLast30Date": null
-    },
-    {
-      "steamId": 76561198019370677,
-      "name": "Matan",
-      "appearances": 7,
-      "bestRank": 20,
-      "bestRankDate": "2024-06-01",
-      "medianRank": 61,
-      "medianRankLast30": 33,
-      "bestRankLast30": 22,
-      "bestRankLast30Date": "2026-10-11"
     },
     {
       "steamId": 76561198039642772,
@@ -90301,6 +90323,17 @@
       "bestRankLast30Date": null
     },
     {
+      "steamId": 76561198055369748,
+      "name": "Secretfolo154",
+      "appearances": 7,
+      "bestRank": 26,
+      "bestRankDate": "2026-10-06",
+      "medianRank": 66,
+      "medianRankLast30": 66,
+      "bestRankLast30": 26,
+      "bestRankLast30Date": "2026-10-06"
+    },
+    {
       "steamId": 76561198057720672,
       "name": "MK_UWUTRA",
       "appearances": 7,
@@ -90642,6 +90675,17 @@
       "bestRankLast30Date": null
     },
     {
+      "steamId": 76561198081910982,
+      "name": "PedanticVampire",
+      "appearances": 7,
+      "bestRank": 27,
+      "bestRankDate": "2026-10-06",
+      "medianRank": 64,
+      "medianRankLast30": 42,
+      "bestRankLast30": 27,
+      "bestRankLast30Date": "2026-10-06"
+    },
+    {
       "steamId": 76561197982490944,
       "name": "the_interloper",
       "appearances": 7,
@@ -90838,17 +90882,6 @@
       "medianRankLast30": null,
       "bestRankLast30": null,
       "bestRankLast30Date": null
-    },
-    {
-      "steamId": 76561198967141445,
-      "name": "Ln(KpNm)=?",
-      "appearances": 7,
-      "bestRank": 27,
-      "bestRankDate": "2026-09-07",
-      "medianRank": 47,
-      "medianRankLast30": 47,
-      "bestRankLast30": 36,
-      "bestRankLast30Date": "2026-09-13"
     },
     {
       "steamId": 76561198042640387,
@@ -95477,9 +95510,9 @@
       "bestRank": 42,
       "bestRankDate": "2026-09-12",
       "medianRank": 161,
-      "medianRankLast30": 42,
-      "bestRankLast30": 42,
-      "bestRankLast30Date": "2026-09-12"
+      "medianRankLast30": null,
+      "bestRankLast30": null,
+      "bestRankLast30Date": null
     },
     {
       "steamId": 76561198336105454,
@@ -97957,6 +97990,17 @@
       "bestRankLast30Date": null
     },
     {
+      "steamId": 76561197992422724,
+      "name": "Toecutter",
+      "appearances": 7,
+      "bestRank": 53,
+      "bestRankDate": "2026-10-08",
+      "medianRank": 72,
+      "medianRankLast30": 72,
+      "bestRankLast30": 53,
+      "bestRankLast30Date": "2026-10-08"
+    },
+    {
       "steamId": 76561198080955830,
       "name": "PopePurple",
       "appearances": 7,
@@ -98568,9 +98612,9 @@
       "bestRank": 57,
       "bestRankDate": "2026-09-12",
       "medianRank": 63,
-      "medianRankLast30": 61,
-      "bestRankLast30": 57,
-      "bestRankLast30Date": "2026-09-12"
+      "medianRankLast30": 63,
+      "bestRankLast30": 61,
+      "bestRankLast30Date": "2026-09-27"
     },
     {
       "steamId": 76561198341679948,
@@ -102709,17 +102753,6 @@
       "bestRankLast30Date": null
     },
     {
-      "steamId": 76561198998172700,
-      "name": "Afedupfig",
-      "appearances": 6,
-      "bestRank": 16,
-      "bestRankDate": "2026-09-17",
-      "medianRank": 44,
-      "medianRankLast30": 43,
-      "bestRankLast30": 16,
-      "bestRankLast30Date": "2026-09-17"
-    },
-    {
       "steamId": 76561198141201307,
       "name": "RealOfficialTurf",
       "appearances": 6,
@@ -103477,6 +103510,17 @@
       "medianRankLast30": null,
       "bestRankLast30": null,
       "bestRankLast30Date": null
+    },
+    {
+      "steamId": 76561198073566618,
+      "name": "Joe",
+      "appearances": 6,
+      "bestRank": 18,
+      "bestRankDate": "2026-10-12",
+      "medianRank": 26,
+      "medianRankLast30": 26,
+      "bestRankLast30": 18,
+      "bestRankLast30Date": "2026-10-12"
     },
     {
       "steamId": 76561198006714600,
@@ -105866,17 +105910,6 @@
       "bestRankLast30Date": null
     },
     {
-      "steamId": 76561198055369748,
-      "name": "Secretfolo154",
-      "appearances": 6,
-      "bestRank": 26,
-      "bestRankDate": "2026-10-06",
-      "medianRank": 69,
-      "medianRankLast30": 66,
-      "bestRankLast30": 26,
-      "bestRankLast30Date": "2026-10-06"
-    },
-    {
       "steamId": 76561198151044462,
       "name": "nocturnus916",
       "appearances": 6,
@@ -106183,17 +106216,6 @@
       "medianRankLast30": null,
       "bestRankLast30": null,
       "bestRankLast30Date": null
-    },
-    {
-      "steamId": 76561198081910982,
-      "name": "PedanticVampire",
-      "appearances": 6,
-      "bestRank": 27,
-      "bestRankDate": "2026-10-06",
-      "medianRank": 84,
-      "medianRankLast30": 54,
-      "bestRankLast30": 27,
-      "bestRankLast30Date": "2026-10-06"
     },
     {
       "steamId": 76561198046144565,
@@ -110811,9 +110833,9 @@
       "bestRank": 40,
       "bestRankDate": "2026-09-12",
       "medianRank": 78,
-      "medianRankLast30": 40,
-      "bestRankLast30": 40,
-      "bestRankLast30Date": "2026-09-12"
+      "medianRankLast30": null,
+      "bestRankLast30": null,
+      "bestRankLast30Date": null
     },
     {
       "steamId": 76561198103024609,
@@ -114884,17 +114906,6 @@
       "medianRankLast30": null,
       "bestRankLast30": null,
       "bestRankLast30Date": null
-    },
-    {
-      "steamId": 76561197992422724,
-      "name": "Toecutter",
-      "appearances": 6,
-      "bestRank": 53,
-      "bestRankDate": "2026-10-08",
-      "medianRank": 72,
-      "medianRankLast30": 72,
-      "bestRankLast30": 53,
-      "bestRankLast30Date": "2026-10-08"
     },
     {
       "steamId": 76561198058044577,
@@ -123598,17 +123609,6 @@
       "bestRankLast30Date": null
     },
     {
-      "steamId": 76561198073566618,
-      "name": "Joe",
-      "appearances": 5,
-      "bestRank": 20,
-      "bestRankDate": "2026-10-11",
-      "medianRank": 26,
-      "medianRankLast30": 26,
-      "bestRankLast30": 20,
-      "bestRankLast30Date": "2026-10-11"
-    },
-    {
       "steamId": 76561198083353022,
       "name": "kurtFG",
       "appearances": 5,
@@ -123772,6 +123772,17 @@
       "medianRankLast30": null,
       "bestRankLast30": null,
       "bestRankLast30Date": null
+    },
+    {
+      "steamId": 76561198043353306,
+      "name": "xlirate",
+      "appearances": 5,
+      "bestRank": 21,
+      "bestRankDate": "2020-09-18",
+      "medianRank": 41,
+      "medianRankLast30": 38,
+      "bestRankLast30": 38,
+      "bestRankLast30Date": "2026-10-12"
     },
     {
       "steamId": 76561198042529414,
@@ -149939,8 +149950,8 @@
       "bestRankDate": "2026-09-12",
       "medianRank": 46,
       "medianRankLast30": 46,
-      "bestRankLast30": 17,
-      "bestRankLast30Date": "2026-09-12"
+      "bestRankLast30": 46,
+      "bestRankLast30Date": "2026-09-16"
     },
     {
       "steamId": 76561198038077947,
@@ -151016,17 +151027,6 @@
       "bestRank": 21,
       "bestRankDate": "2026-01-20",
       "medianRank": 158,
-      "medianRankLast30": null,
-      "bestRankLast30": null,
-      "bestRankLast30Date": null
-    },
-    {
-      "steamId": 76561198043353306,
-      "name": "xlirate",
-      "appearances": 4,
-      "bestRank": 21,
-      "bestRankDate": "2020-09-18",
-      "medianRank": 83,
       "medianRankLast30": null,
       "bestRankLast30": null,
       "bestRankLast30Date": null
@@ -156530,6 +156530,17 @@
       "medianRankLast30": null,
       "bestRankLast30": null,
       "bestRankLast30Date": null
+    },
+    {
+      "steamId": 76561198007909249,
+      "name": "HK Zero",
+      "appearances": 4,
+      "bestRank": 32,
+      "bestRankDate": "2026-09-23",
+      "medianRank": 50,
+      "medianRankLast30": 50,
+      "bestRankLast30": 32,
+      "bestRankLast30Date": "2026-09-23"
     },
     {
       "steamId": 76561197972970532,
@@ -166894,6 +166905,17 @@
       "bestRankLast30Date": null
     },
     {
+      "steamId": 76561198126627730,
+      "name": "Nightowl",
+      "appearances": 4,
+      "bestRank": 48,
+      "bestRankDate": "2026-10-08",
+      "medianRank": 52,
+      "medianRankLast30": 52,
+      "bestRankLast30": 48,
+      "bestRankLast30Date": "2026-10-08"
+    },
+    {
       "steamId": 76561198074665052,
       "name": "GRAVITY",
       "appearances": 4,
@@ -171017,6 +171039,17 @@
       "medianRankLast30": null,
       "bestRankLast30": null,
       "bestRankLast30Date": null
+    },
+    {
+      "steamId": 76561198425171063,
+      "name": "TheGhostplayer",
+      "appearances": 4,
+      "bestRank": 55,
+      "bestRankDate": "2026-10-12",
+      "medianRank": 64,
+      "medianRankLast30": 64,
+      "bestRankLast30": 55,
+      "bestRankLast30Date": "2026-10-12"
     },
     {
       "steamId": 76561198251692148,
@@ -201621,17 +201654,6 @@
       "bestRankLast30Date": null
     },
     {
-      "steamId": 76561198007909249,
-      "name": "HK Zero",
-      "appearances": 3,
-      "bestRank": 32,
-      "bestRankDate": "2026-09-23",
-      "medianRank": 49,
-      "medianRankLast30": 49,
-      "bestRankLast30": 32,
-      "bestRankLast30Date": "2026-09-23"
-    },
-    {
       "steamId": 76561198153944199,
       "name": "Drakon_C",
       "appearances": 3,
@@ -215778,17 +215800,6 @@
       "bestRankLast30Date": null
     },
     {
-      "steamId": 76561198126627730,
-      "name": "Nightowl",
-      "appearances": 3,
-      "bestRank": 48,
-      "bestRankDate": "2026-10-08",
-      "medianRank": 50,
-      "medianRankLast30": 50,
-      "bestRankLast30": 48,
-      "bestRankLast30Date": "2026-10-08"
-    },
-    {
       "steamId": 76561198426268874,
       "name": "Devourer of Games",
       "appearances": 3,
@@ -217753,9 +217764,9 @@
       "bestRank": 50,
       "bestRankDate": "2026-09-12",
       "medianRank": 53,
-      "medianRankLast30": 50,
-      "bestRankLast30": 50,
-      "bestRankLast30Date": "2026-09-12"
+      "medianRankLast30": null,
+      "bestRankLast30": null,
+      "bestRankLast30Date": null
     },
     {
       "steamId": 76561197978843354,
@@ -220561,6 +220572,17 @@
       "medianRankLast30": null,
       "bestRankLast30": null,
       "bestRankLast30Date": null
+    },
+    {
+      "steamId": 76561198020235741,
+      "name": "Mastertlf",
+      "appearances": 3,
+      "bestRank": 53,
+      "bestRankDate": "2026-10-10",
+      "medianRank": 57,
+      "medianRankLast30": 57,
+      "bestRankLast30": 53,
+      "bestRankLast30Date": "2026-10-10"
     },
     {
       "steamId": 76561198079779943,
@@ -227403,17 +227425,6 @@
       "medianRankLast30": null,
       "bestRankLast30": null,
       "bestRankLast30Date": null
-    },
-    {
-      "steamId": 76561198425171063,
-      "name": "TheGhostplayer",
-      "appearances": 3,
-      "bestRank": 60,
-      "bestRankDate": "2026-04-12",
-      "medianRank": 64,
-      "medianRankLast30": 64,
-      "bestRankLast30": 64,
-      "bestRankLast30Date": "2026-10-04"
     },
     {
       "steamId": 76561199817746435,
@@ -278698,6 +278709,17 @@
       "bestRankLast30Date": "2026-10-01"
     },
     {
+      "steamId": 76561198245202882,
+      "name": "Spencer of the Coast",
+      "appearances": 2,
+      "bestRank": 31,
+      "bestRankDate": "2026-10-12",
+      "medianRank": 40,
+      "medianRankLast30": 40,
+      "bestRankLast30": 31,
+      "bestRankLast30Date": "2026-10-12"
+    },
+    {
       "steamId": 76561198157918811,
       "name": "Mr. Greed",
       "appearances": 2,
@@ -279991,9 +280013,9 @@
       "bestRank": 33,
       "bestRankDate": "2026-09-12",
       "medianRank": 143,
-      "medianRankLast30": 33,
-      "bestRankLast30": 33,
-      "bestRankLast30Date": "2026-09-12"
+      "medianRankLast30": null,
+      "bestRankLast30": null,
+      "bestRankLast30Date": null
     },
     {
       "steamId": 76561198030423428,
@@ -281492,6 +281514,17 @@
       "bestRankLast30Date": null
     },
     {
+      "steamId": 76561198264907919,
+      "name": "Cocorico",
+      "appearances": 2,
+      "bestRank": 34,
+      "bestRankDate": "2026-10-12",
+      "medianRank": 64,
+      "medianRankLast30": 64,
+      "bestRankLast30": 34,
+      "bestRankLast30Date": "2026-10-12"
+    },
+    {
       "steamId": 76561198082903536,
       "name": "Godly Baby Head",
       "appearances": 2,
@@ -282425,6 +282458,17 @@
       "medianRankLast30": null,
       "bestRankLast30": null,
       "bestRankLast30Date": null
+    },
+    {
+      "steamId": 76561199112277119,
+      "name": "Lukas",
+      "appearances": 2,
+      "bestRank": 35,
+      "bestRankDate": "2026-01-28",
+      "medianRank": 45,
+      "medianRankLast30": 45,
+      "bestRankLast30": 45,
+      "bestRankLast30Date": "2026-10-12"
     },
     {
       "steamId": 76561198326096735,
@@ -306121,17 +306165,6 @@
       "bestRankLast30Date": null
     },
     {
-      "steamId": 76561198020235741,
-      "name": "Mastertlf",
-      "appearances": 2,
-      "bestRank": 53,
-      "bestRankDate": "2026-10-10",
-      "medianRank": 61,
-      "medianRankLast30": 61,
-      "bestRankLast30": 53,
-      "bestRankLast30Date": "2026-10-10"
-    },
-    {
       "steamId": 76561197995457994,
       "name": "Mitras",
       "appearances": 2,
@@ -306141,6 +306174,17 @@
       "medianRankLast30": 70,
       "bestRankLast30": 53,
       "bestRankLast30Date": "2026-10-11"
+    },
+    {
+      "steamId": 76561197982690094,
+      "name": "RTz13",
+      "appearances": 2,
+      "bestRank": 53,
+      "bestRankDate": "2026-10-12",
+      "medianRank": 73,
+      "medianRankLast30": 73,
+      "bestRankLast30": 53,
+      "bestRankLast30Date": "2026-10-12"
     },
     {
       "steamId": 76561198165693506,
@@ -307788,9 +307832,9 @@
       "bestRank": 54,
       "bestRankDate": "2026-09-12",
       "medianRank": 75,
-      "medianRankLast30": 54,
-      "bestRankLast30": 54,
-      "bestRankLast30Date": "2026-09-12"
+      "medianRankLast30": null,
+      "bestRankLast30": null,
+      "bestRankLast30Date": null
     },
     {
       "steamId": 76561198105910767,
@@ -320606,6 +320650,17 @@
       "medianRankLast30": null,
       "bestRankLast30": null,
       "bestRankLast30Date": null
+    },
+    {
+      "steamId": 76561197972328035,
+      "name": "The Physicist",
+      "appearances": 2,
+      "bestRank": 62,
+      "bestRankDate": "2026-10-12",
+      "medianRank": 67,
+      "medianRankLast30": 67,
+      "bestRankLast30": 62,
+      "bestRankLast30Date": "2026-10-12"
     },
     {
       "steamId": 76561198061672200,
@@ -440431,17 +440486,6 @@
       "bestRankLast30Date": null
     },
     {
-      "steamId": 76561199112277119,
-      "name": "Lukas",
-      "appearances": 1,
-      "bestRank": 35,
-      "bestRankDate": "2026-01-28",
-      "medianRank": 35,
-      "medianRankLast30": null,
-      "bestRankLast30": null,
-      "bestRankLast30Date": null
-    },
-    {
       "steamId": 76561198156112695,
       "name": "M3SS1AH",
       "appearances": 1,
@@ -441804,6 +441848,17 @@
       "medianRankLast30": 36,
       "bestRankLast30": 36,
       "bestRankLast30Date": "2026-10-06"
+    },
+    {
+      "steamId": 76561198046460678,
+      "name": "TheMeanMemeMan",
+      "appearances": 1,
+      "bestRank": 36,
+      "bestRankDate": "2026-10-12",
+      "medianRank": 36,
+      "medianRankLast30": 36,
+      "bestRankLast30": 36,
+      "bestRankLast30Date": "2026-10-12"
     },
     {
       "steamId": 76561198113519272,
@@ -445469,6 +445524,17 @@
       "bestRankLast30Date": "2026-10-06"
     },
     {
+      "steamId": 76561198092258977,
+      "name": ":D",
+      "appearances": 1,
+      "bestRank": 39,
+      "bestRankDate": "2026-10-12",
+      "medianRank": 39,
+      "medianRankLast30": 39,
+      "bestRankLast30": 39,
+      "bestRankLast30Date": "2026-10-12"
+    },
+    {
       "steamId": 76561198013050317,
       "name": "MortalChuck",
       "appearances": 1,
@@ -446743,17 +446809,6 @@
       "medianRankLast30": 40,
       "bestRankLast30": 40,
       "bestRankLast30Date": "2026-09-23"
-    },
-    {
-      "steamId": 76561198245202882,
-      "name": "Spencer of the Coast",
-      "appearances": 1,
-      "bestRank": 40,
-      "bestRankDate": "2026-10-11",
-      "medianRank": 40,
-      "medianRankLast30": 40,
-      "bestRankLast30": 40,
-      "bestRankLast30Date": "2026-10-11"
     },
     {
       "steamId": 76561198085584506,
@@ -453343,6 +453398,17 @@
       "medianRankLast30": 44,
       "bestRankLast30": 44,
       "bestRankLast30Date": "2026-10-02"
+    },
+    {
+      "steamId": 76561198309440024,
+      "name": "AquaMarine5304",
+      "appearances": 1,
+      "bestRank": 44,
+      "bestRankDate": "2026-10-12",
+      "medianRank": 44,
+      "medianRankLast30": 44,
+      "bestRankLast30": 44,
+      "bestRankLast30Date": "2026-10-12"
     },
     {
       "steamId": 76561198064187484,
@@ -461287,6 +461353,17 @@
       "bestRankLast30Date": "2026-10-06"
     },
     {
+      "steamId": 76561198826477145,
+      "name": "Nerakseoy",
+      "appearances": 1,
+      "bestRank": 48,
+      "bestRankDate": "2026-10-12",
+      "medianRank": 48,
+      "medianRankLast30": 48,
+      "bestRankLast30": 48,
+      "bestRankLast30Date": "2026-10-12"
+    },
+    {
       "steamId": 76561198016931541,
       "name": "Mayak",
       "appearances": 1,
@@ -463350,9 +463427,9 @@
       "bestRank": 49,
       "bestRankDate": "2026-09-12",
       "medianRank": 49,
-      "medianRankLast30": 49,
-      "bestRankLast30": 49,
-      "bestRankLast30Date": "2026-09-12"
+      "medianRankLast30": null,
+      "bestRankLast30": null,
+      "bestRankLast30Date": null
     },
     {
       "steamId": 76561198089977062,
@@ -465588,6 +465665,17 @@
       "bestRankLast30Date": "2026-10-11"
     },
     {
+      "steamId": 76561198056710990,
+      "name": "Harvderdarf",
+      "appearances": 1,
+      "bestRank": 50,
+      "bestRankDate": "2026-10-12",
+      "medianRank": 50,
+      "medianRankLast30": 50,
+      "bestRankLast30": 50,
+      "bestRankLast30Date": "2026-10-12"
+    },
+    {
       "steamId": 76561198063512035,
       "name": "Stupid Kobold",
       "appearances": 1,
@@ -467750,9 +467838,9 @@
       "bestRank": 51,
       "bestRankDate": "2026-09-12",
       "medianRank": 51,
-      "medianRankLast30": 51,
-      "bestRankLast30": 51,
-      "bestRankLast30Date": "2026-09-12"
+      "medianRankLast30": null,
+      "bestRankLast30": null,
+      "bestRankLast30Date": null
     },
     {
       "steamId": 76561199155841400,
@@ -470027,9 +470115,9 @@
       "bestRank": 52,
       "bestRankDate": "2026-09-12",
       "medianRank": 52,
-      "medianRankLast30": 52,
-      "bestRankLast30": 52,
-      "bestRankLast30Date": "2026-09-12"
+      "medianRankLast30": null,
+      "bestRankLast30": null,
+      "bestRankLast30Date": null
     },
     {
       "steamId": 76561198981238876,
@@ -475147,6 +475235,17 @@
       "bestRankLast30Date": "2026-10-06"
     },
     {
+      "steamId": 76561198039759160,
+      "name": "Je_Moedah",
+      "appearances": 1,
+      "bestRank": 54,
+      "bestRankDate": "2026-10-12",
+      "medianRank": 54,
+      "medianRankLast30": 54,
+      "bestRankLast30": 54,
+      "bestRankLast30Date": "2026-10-12"
+    },
+    {
       "steamId": 76561197962041788,
       "name": "DarkStriker",
       "appearances": 1,
@@ -480136,9 +480235,9 @@
       "bestRank": 56,
       "bestRankDate": "2026-09-12",
       "medianRank": 56,
-      "medianRankLast30": 56,
-      "bestRankLast30": 56,
-      "bestRankLast30Date": "2026-09-12"
+      "medianRankLast30": null,
+      "bestRankLast30": null,
+      "bestRankLast30Date": null
     },
     {
       "steamId": 76561199884582987,
@@ -485397,6 +485496,17 @@
       "medianRankLast30": 58,
       "bestRankLast30": 58,
       "bestRankLast30Date": "2026-10-07"
+    },
+    {
+      "steamId": 76561198059169617,
+      "name": "Meep The Changeling",
+      "appearances": 1,
+      "bestRank": 58,
+      "bestRankDate": "2026-10-12",
+      "medianRank": 58,
+      "medianRankLast30": 58,
+      "bestRankLast30": 58,
+      "bestRankLast30Date": "2026-10-12"
     },
     {
       "steamId": 76561198045463443,
@@ -500172,6 +500282,17 @@
       "bestRankLast30Date": "2026-10-08"
     },
     {
+      "steamId": 76561197993788538,
+      "name": "FOXYtism",
+      "appearances": 1,
+      "bestRank": 63,
+      "bestRankDate": "2026-10-12",
+      "medianRank": 63,
+      "medianRankLast30": 63,
+      "bestRankLast30": 63,
+      "bestRankLast30Date": "2026-10-12"
+    },
+    {
       "steamId": 76561197996589384,
       "name": "/dev/nall",
       "appearances": 1,
@@ -503250,17 +503371,6 @@
       "medianRankLast30": 64,
       "bestRankLast30": 64,
       "bestRankLast30Date": "2026-10-03"
-    },
-    {
-      "steamId": 76561198264907919,
-      "name": "Cocorico",
-      "appearances": 1,
-      "bestRank": 64,
-      "bestRankDate": "2026-10-10",
-      "medianRank": 64,
-      "medianRankLast30": 64,
-      "bestRankLast30": 64,
-      "bestRankLast30Date": "2026-10-10"
     },
     {
       "steamId": 76561198070643083,
@@ -512809,17 +512919,6 @@
       "medianRankLast30": 67,
       "bestRankLast30": 67,
       "bestRankLast30Date": "2026-09-13"
-    },
-    {
-      "steamId": 76561197972328035,
-      "name": "The Physicist",
-      "appearances": 1,
-      "bestRank": 67,
-      "bestRankDate": "2026-09-25",
-      "medianRank": 67,
-      "medianRankLast30": 67,
-      "bestRankLast30": 67,
-      "bestRankLast30Date": "2026-09-25"
     },
     {
       "steamId": 76561198006536671,
@@ -532708,17 +532807,6 @@
       "medianRankLast30": 73,
       "bestRankLast30": 73,
       "bestRankLast30Date": "2026-10-10"
-    },
-    {
-      "steamId": 76561197982690094,
-      "name": "RTz13",
-      "appearances": 1,
-      "bestRank": 73,
-      "bestRankDate": "2026-10-11",
-      "medianRank": 73,
-      "medianRankLast30": 73,
-      "bestRankLast30": 73,
-      "bestRankLast30Date": "2026-10-11"
     },
     {
       "steamId": 76561197996791550,
